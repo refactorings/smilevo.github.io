@@ -105,7 +105,7 @@ Building
 
 The requirements for building the site are:
 
-* [Ruby V2.5.]: *important
+* [Ruby][]: `V 2.5.`
 * [Jekyll][]: run `gem install jekyll`
 * [bibble][]: available on `pip`
 * ssh and rsync, only if you want to deploy directly.
