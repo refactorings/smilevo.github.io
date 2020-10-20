@@ -8,4 +8,5 @@ fields:
     required: false
   label: this is just a page of test
 pages:
+- _posts/draft_mwm.md
 - test.md
