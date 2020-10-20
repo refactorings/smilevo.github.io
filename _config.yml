@@ -1,10 +1,10 @@
-name: ASSET Research Group
-title: ASSET Research Group
-url: https://asset-group.github.io
+name: SMILE Research Group
+title: SMILE Research Group
+url: https://smilevo.github.io/
 
 
 analytics_enable: true
-analytics_id: UA-157947360-1
+analytics_id: G-PJ46Z3FFCB
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
