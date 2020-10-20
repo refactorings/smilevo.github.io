@@ -1,4 +1,9 @@
 ---
 label: testing templates
 hide_body: false
-fields: []
+fields:
+- name: this_is_just_a_page_of_test
+  type: text
+  config:
+    required: false
+  label: this is just a page of test
