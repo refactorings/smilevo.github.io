@@ -1,216 +1,200 @@
 #Faculty
-sudipta:
-    display_name: "Sudipta Chattopadhyay"
-    webpage: "https://sudiptac.bitbucket.io"
-    github: sudiptac
+mkaouer:
+    display_name: "Mohamed Wiem Mkaouer"
+    webpage: "http://www.se.rit.edu/~mwm/"
+    github: mkaouer
     role: faculty
-    image: /img/people/sudiptac.png
+    image: /img/people/mkaouer.png
     bio: "Assistant Professor"
 
-#Collaborators
-ahmed:
-    display_name: "Ahmed Rezine"
-    webpage: "http://www.ahmedrezine.com/"
-    role: collab
-    image: /img/people/ahmed.jpg
-    bio: "Associate Professor (Linköping University, Sweden)"
-
-#Collaborators
-ezekiel:
-    display_name: "Ezekiel Olamide Soremekun"
-    webpage: "https://scholar.google.com.sg/citations?user=r8T1-yoAAAAJ&hl=th"
-    role: collab
-    image: /img/people/ezekiel.jpg
-    bio: "Visiting PhD Candidate (Saarland University, Germany)"
-
-
-#Post Docs/Researchers
-michele:
-    display_name: "Michele Lora"
-    role: postdoc
-    webpage: "https://www.linkedin.com/in/michele-lora-0a235417/"
-    bio: "Post Doc (PhD, University of Verona, Italy)"
-    image: /img/people/Michele_Lora.jpg
-
-chundong:
-    display_name: "Chundong Wang"
-    webpage: "https://sites.google.com/view/wangc"
-    role: postdoc
-    image: /img/people/Chundong_Wang.jpg
-    bio: "Post Doc (PhD, NUS, Singapore)"
-
-xingbin:
-    display_name: "Xingbin Jiang"
-    webpage: "https://www.linkedin.com/in/xingbin-jiang-4b2685140/"
-    role: postdoc 
-    image: /img/people/Jiang_Xingbin.jpg
-    bio: "Research Assistant (ME, Chinese Academy of Sciences)"
-
-vaibhav:
-    display_name: "Vaibhav Bedi"
-    webpage: "https://vaibhvbedi.github.io/Vaibhavbedi/"
-    role: postdoc 
-    image: /img/people/vaibhav-bedi.jpg
-    bio: "Research Assistant (BTech, Kurukshetra University)"
-
-rohini:
-    display_name: "Rohini Poolat"
-    role: alum
-    bio: "Research Assistant (MTech, NUS, Singapore)"
-    image: /img/people/Rohini_Poolat.jpg
-
-
-#Urop
-gerald:
-    display_name: "Gerald Woo"
-    webpage: "https://www.linkedin.com/in/gerald-woo/"
-    image: /img/people/Gerald_Woo.jpg
-    bio: "ISTD (SUTD)"
-    role: urop
-
-shanshan:
-    display_name: "Peng Shanshan"
-    role: urop
-    bio: "ISTD (SUTD)"
-    webpage: "https://www.linkedin.com/in/shanshan-peng-a9b674146/"
-    image: /img/people/Peng_Shanshan.png
-
-lionell:
-    display_name: "Lionell Loh"
-    role: urop
-    bio: "ISTD (SUTD)"
-    webpage: "https://www.linkedin.com/in/lionellloh/"
-    image: /img/people/Lionell_Loh.jpg
-
-louth:
-    display_name: "Louth Bin Rawshan"
-    role: urop
-    bio: "EPD (SUTD)"
-
-
 #Grad Students 
-yeeching:
-    display_name: "Tok Yee Ching"
-    webpage: "https://poppopretn.com"
+hussalr:
+    display_name: "Hussein Alrubaye"
+    webpage: 
     role: grad
-    image: /img/people/Tok_Yee_Ching.jpg
-    bio: "PhD Student (SUTD)"
+    image: /img/people/dummy.jpg
+    bio: "PhD Student"
 
-sakshi:
-    display_name: "Sakshi Udeshi"
-    webpage: "http://sakshiudeshi.github.io"
+emadba:
+    display_name: "Eman Abdullah Alomar"
+    webpage: 
     role: grad
-    image: /img/people/Sakshi_Udeshi.jpg
-    bio: "PhD Student (SUTD)"
+    image: /img/people/dummy.jpg
+    bio: "PhD Student"
 
-yifan:
-    display_name: "Jia Yifan"
-    webpage: "https://www.linkedin.com/in/jia-yifan-a704403b/"
+deeals:
+    display_name: "Deema AlShoaibi"
+    webpage: 
     role: grad
-    image: /img/people/Jia_Yifan.jpg
-    bio: "PhD Student (SUTD and TUV SUD)"
+    image: /img/people/dummy.jpg
+    bio: "PhD Student"
+    
+Murtt:
+    display_name: "Murtaza Tamjeed"
+    webpage: 
+    role: grad
+    image: /img/people/dummy.jpg
+    bio: "PhD Student"
 
-eric:
-    display_name: "Eric Gerard Rothstein Morris"
-    webpage: "https://ericrothsteinmorris.github.io/"
+stevsi:
+    display_name: "Steven Simmons"
+    webpage: 
     role: grad
-    image: /img/people/Eric_Roth.png
-    bio: "PhD Student (SUTD)"
+    image: /img/people/dummy.jpg
+    bio: "Master’s Student"
 
-matheus:
-    display_name: "Matheus Eduardo"
-    webpage: "https://matheus-garbelini.github.io/home/"
+bench:
+    display_name: "Ben Christians"
+    webpage: 
     role: grad
-    bio: "PhD student (SUTD and SINGA Scholar)"
-    image: /img/people/Matheus_Eduardo.jpg
+    image: /img/people/dummy.jpg
+    bio: "Master’s Student"
 
-juan:
-    display_name: "Juan David Guarnizo Hernandez"
-    webpage: "https://istd.sutd.edu.sg/people/phd-students/juan-david-guarnizo-hernandez"
+maxme:
+    display_name: "Max Mendelson"
+    webpage: 
     role: grad
-    image: /img/people/juan-hernandez.jpg
-    bio: "PhD Student (SUTD)"
+    image: /img/people/dummy.jpg
+    bio: "Master’s Student"
+
+
+
+
+
 
 
 #Alumni
-baqer:
-    display_name: "Muhammad Baqer Mollah"
-    webpage: "https://sites.google.com/site/baqerweb/"
+andr:
+    display_name: "Andrew Di Stasi"
+    webpage: ""
     role: alum
-    bio: "Research Assistant (MS, Jahangirnagar University)"
-    image: /img/people/Muhammad_Baqer.jpg
+    bio: "Do I leave the bio empty?"
+    image: /img/people/dummy.jpg
 
-eyasu:
-    display_name: "Eyasu Getahun Chekole"
+ahmj:
+    display_name: "Ahmed Aljohani"
+    webpage: ""
     role: alum
-    bio: "PhD Student (SUTD)"
-    image: /img/people/Eyasu_Chekole.jpeg
+    bio: ""
+    image: /img/people/dummy.jpg
 
-adrian:
-    display_name: "Adrian Horga"
-    webpage: "https://www.ida.liu.se/~adrho74/"
+khalm:
+    display_name: "Khalid Almalki"
+    webpage: ""
     role: alum
-    image: /img/people/Adrian_Horga.jpg
-    bio: "PhD Student (Linköping University, Sweden)"
+    bio: ""
+    image: /img/people/dummy.jpg
 
-amit:
-    display_name: "Amit Behal"
+anthp:
+    display_name: "Anthony Peruma"
+    webpage: ""
     role: alum
-    bio: "Research Intern"
-    bio: "PhD Student (IIT Ropar)"
+    bio: ""
+    image: /img/people/dummy.jpg
 
-arian:
-    display_name: "Arian Maghazeh"
+kevih:
+    display_name: "Kevin Hannigan"
+    webpage: ""
     role: alum
-    bio: "Research Intern"
-    bio: "PhD Student (Linköping University, Sweden)"
+    bio: ""
+    image: /img/people/dummy.jpg
 
-rishabh:
-    display_name: "Rishabh Singhal"
+nassa:
+    display_name: "Nasir Safdari"
+    webpage: ""
     role: alum
-    bio: "Research Intern"
-    image: /img/people/Rishabh_Singhal.jpg
-    bio: "Undergraduate Student (IIT Patna)"
+    bio: ""
+    image: /img/people/dummy.jpg
 
-kartik:
-    display_name: "Kartik Aggarwal"
+emanab:
+    display_name: "Eman Abdullah Alomar"
+    webpage: ""
     role: alum
-    bio: "Research Intern"
-    bio: "Undergraduate Student (BITS Pilani, India)"
+    bio: ""
+    image: /img/people/dummy.jpg
 
-mehak:
-    display_name: "Mehak Aggarwal"
+mazal:
+    display_name: "Mazen Alotaibi"
+    webpage: ""
     role: alum
-    bio: "Research Intern"
-    image: /img/people/Mehak_Aggarwal.jpeg
-    bio: "Undergraduate Student (IIT Delhi)"
+    bio: ""
+    image: /img/people/dummy.jpg
 
-gunavaran:
-    display_name: "Gunavaran Brihadiswarn"
+alexbo:
+    display_name: "Alexander Bogart"
+    webpage: ""
     role: alum
-    bio: "Research Intern"
-    bio: "Undergraduate Student (University of Moratuwa, Sri Lanka)"
+    bio: ""
+    image: /img/people/dummy.jpg
 
-pryanshu:
-    display_name: "Pryanshu Arora"
+priss:
+    display_name: "Priya Suresh Sagar"
+    webpage: ""
     role: alum
-    bio: "Undergraduate Student (BITS Pilani, India)"
+    bio: ""
+    image: /img/people/dummy.jpg
 
-tanya:
-    display_name: "Tanya Srivastava"
+mohskk:
+    display_name: "Mohammadreza Shojaei Kol Kachi"
+    webpage: ""
     role: alum
-    bio: "Undergraduate Student (BITS Pilani, India)"
+    bio: ""
+    image: /img/people/dummy.jpg
 
-#Visitors
-jingxuan:
-    display_name: "Jingxuan Jiang"
+jory:
+    display_name: "Jose Reyes"
+    webpage: ""
     role: alum
-    bio: "Research Intern"
-    bio: "Masters Student (Shandong University, China)"
+    bio: ""
+    image: /img/people/dummy.jpg
 
-unni:
-    display_name: "Unnikrishnan Cheramangalath"
-    webpage: "https://www.linkedin.com/in/unnikrishnan-cheramangalath-52282715/"
+licma:
+    display_name: "Licelot Marmolejos"
+    webpage: ""
     role: alum
-    image: /img/people/Unnikrishnan_Cheramangalath.jpg
-    bio: "Post Doc (PhD, Indian Institute of Science, India)"
+    bio: ""
+    image: /img/people/dummy.jpg
+
+hinalh:
+    display_name: "Hind Alharbi"
+    webpage: ""
+    role: alum
+    bio: ""
+    image: /img/people/dummy.jpg
+
+jadmu:
+    display_name: "Jadder Moya Urbaez"
+    webpage: ""
+    role: alum
+    bio: ""
+    image: /img/people/dummy.jpg
+
+ebal:
+    display_name: "Ebtesam Alsogaih"
+    webpage: ""
+    role: alum
+    bio: ""
+    image: /img/people/dummy.jpg
+
+kunse:
+    display_name: "Kunal Setpal"
+    webpage: ""
+    role: alum
+    bio: ""
+    image: /img/people/dummy.jpg
+
+blbab:
+    display_name: "Bladimir Baez Baez"
+    webpage: ""
+    role: alum
+    bio: ""
+    image: /img/people/dummy.jpg
+
+lasho:
+    display_name: "Ian Shoenberger"
+    webpage: ""
+    role: alum
+    bio: ""
+    image: /img/people/dummy.jpg
+
+
