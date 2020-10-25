@@ -3,8 +3,7 @@ title: Third-Party Libraries API Safe Migration
 
 description: |
  <p style="text-align:justify">
-  Detection of performed migrations. Recommendation of Migrations at the method-level. Testing of recommended migrations <font color="red">
-  <b> One post-doc position open in this project starting as soon as possible.</b></font>
+  Detection of performed migrations. Recommendation of Migrations at the method-level. Testing of recommended migrations 
  </p>
 people:
   - chundong
