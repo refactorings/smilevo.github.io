@@ -23,7 +23,7 @@ serve: _includes/pubs.html
 clean:
 	$(RM) -r _site _includes/pubs.html
 
-DEPLOY_HOST ?= chattopadhyaygroup.github.io
+DEPLOY_HOST ?= smilevo.github.io
 DEPLOY_PATH ?= www/
 RSYNC := rsync --compress --recursive --checksum --itemize-changes --delete -e ssh
 
