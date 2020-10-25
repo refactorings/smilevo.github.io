@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>SMILE Research Group: Third-Party Libraries API Safe Migration</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet"
+          href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css"
+          integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb"
+          crossorigin="anonymous">
+    <link rel="stylesheet"
+          href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/css/group.css">
+
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-PJ46Z3FFCB"></script>
+
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
+        gtag('js', new Date());
+
+        gtag('config', "G-PJ46Z3FFCB");
+    </script>
+    
+</head>
+<body>
+
+<div class="container">
+    <!-- This is a bit nasty, but it basically says be a column first, and on larger screens be a spaced out row -->
+    <div class="header d-flex
+                        flex-column
+                        flex-md-row justify-content-md-between">
+        <a href="/" class="">
+            <img src="/img/logo.png"
+                 srcset="/img/logo@2x.png 2x"
+                 alt="Awesome" id="logo">
+        </a>
+        <ul class="nav nav-pills justify-content-center">
+
+            
+            
+
+            
+
+            
+            
+            
+
+            <li class="nav-item">
+                <a class="nav-link "
+                   href="/">
+                    Home
+                </a>
+            </li>
+
+            
+
+            
+
+            
+            
+            
+
+            <li class="nav-item">
+                <a class="nav-link "
+                   href="/#people">
+                    People
+                </a>
+            </li>
+
+            
+
+            
+
+            
+            
+            
+
+            <li class="nav-item">
+                <a class="nav-link active"
+                   href="/research.html">
+                    Research
+                </a>
+            </li>
+
+            
+
+            
+
+            
+            
+            
+
+            <li class="nav-item">
+                <a class="nav-link "
+                   href="/publications.html">
+                    Publications
+                </a>
+            </li>
+
+            
+
+            
+
+            
+            
+            
+
+            <li class="nav-item">
+                <a class="nav-link "
+                   href="/code.html">
+                    Code
+                </a>
+            </li>
+
+            
+
+            
+
+            
+            
+            
+
+            <li class="nav-item">
+                <a class="nav-link "
+                   href="/cves.html">
+                    CVEs
+                </a>
+            </li>
+
+            
+
+            
+
+            
+            
+            
+
+            <li class="nav-item">
+                <a class="nav-link "
+                   href="/service.html">
+                    Service
+                </a>
+            </li>
+
+            
+
+        </ul>
+    </div>
+
+    
+
+    
+    <h1>Third-Party Libraries API Safe Migration</h1>
+    
+
+    <div class="alert alert-info">
+
+            For more details about this project, please visit our <a href="http://migrationlab.net">Migration Lab</a>!
+
+        </div>
+
+<header>
+    <h2>Description</h2>
+  </header>
+<p style="text-align:justify">
+
+  Modern software systems rely heavily on third-party library functionality as a mean to save time, reduce implementation costs, and increase their software quality when offering rich, robust and up-to-date features. However, as software systems evolve frequently, the need for better services and more secure, reliable and quality functionalities causes developers to often replace their old libraries with more recent ones. This process of replacing a library with a different one, while preserving the same functionality, is known as library migration . Learn more about evolution migration that happened over year of development. We track library migration in around 321k open source projects. All the data is available at <a href="http://migrationlab.net">Migration Lab</a>.
+
+
+
+  <header>
+    <h2>Related Publications</h2>
+  </header>
+  <p style="text-align:justify">
+
+  <ul style=" padding-right: 10px">
+
+      <li class="list-group-item">
+          Alrubaye, H., &amp; Mkaouer, M. W. (2018, October). <a href="https://dl.acm.org/citation.cfm?id=3291299">Automating the detection of third-party Java library migration at the function level</a>. In Proceedings of the 28th Annual International Conference on Computer Science and Software Engineering (pp. 60-71). IBM Corp.
+      </li>
+      <li class="list-group-item">
+          Alrubaye, H., Mkaouer, &amp; M. W., Ali, O (2019). <a href="https://dl.acm.org/citation.cfm?id=3339129">On the Use of Information Retrieval to Automate the Detection of Third-Party Java Library Migration At The Function Level</a>, 27th IEEE/ACM International Conference on Program Comprehension 2019.
+      </li>
+      <li class="list-group-item">
+          Alrubaye, H., &amp; Wiem, M. (2019). <a href="https://books.google.de/books?hl=en&amp;lr=&amp;id=uPSDDwAAQBAJ&amp;oi=fnd&amp;pg=PA295&amp;dq=Variability+in+Library+Evolution+hussein&amp;ots=zX79FyHrY8&amp;sig=1-SwLFJLHP44UISBx2iQQpZZSLE#v=onepage&amp;q=Variability%20in%20Library%20Evolution%20hussein&amp;f=false">Variability in Library</a>. Software Engineering for Variability Intensive Systems: Foundations and Applications, 295.
+      </li>
+      <li class="list-group-item">
+          Alrubaye, Hussein, Mohamed Wiem Mkaouer, Ali Ouni, . <a href="https://people.rit.edu/hat6622/papers/icsme2019.pdf">MigrationMiner: An Automated Detection Tool of Third-Party Java Library Migration at the Method Level</a>. 2019 IEEE International Conference on Software Maintenance and Evolution (ICSME).
+      </li>
+      <li class="list-group-item">
+          Alrubaye, Hussein, Mohamed Wiem Mkaouer, Igor Khokhlov, Leon Reznik, Ali Ouni, and Jason Mcgoff. <a href="https://people.rit.edu/hat6622/papers/1906.02882.pdf">Learning to Recommend Third-Party Library Migration Opportunities at the API Level</a>. Journal  of Applied Soft Computing  (2020).
+      </li>
+
+      <li class="list-group-item">
+          Alrubaye, Hussein, Deema AlShoaibi, Mohamed Wiem Mkaouer, Ali Ouni, . <a href="https://people.rit.edu/hat6622/papers/API_Migration_Empirical.pdf"> How Does API Migration Impact Software Quality and Comprehension? An Empirical Study</a>. International Conference on Software Reuse(2020).
+      </li>
+
+  </ul>
+
+
+<div class="alert alert-info">
+
+            For more papers check the Google Scholar of Hussein <a href=" https://scholar.google.com/citations?user=Qq_cPWUAAAAJ">here</a>
+
+        </div>
+
+
+</p>
+
+
+
+<p style="text-align:justify">
+<b>Acknowledgement:</b> We are grateful to
+<a href="https://www.rit.edu/computing/">Golisano College of Computing and Information Sciences</a> for generously supporting this project.
+</p>
+</p>
+
+
+<h2> People </h2>
+<section class="people project-people">
+    
+        
+        
+
+
+
+
+
+
+
+    <div class="person person-with-image row align-items-center">
+        <div class="col-auto">
+            
+
+
+
+
+
+
+
+    <a href="https://sites.google.com/view/wangc"
+       style="text-decoration: none">
+        
+        <img class="rounded-circle profile"
+             alt="Chundong Wang"
+             title="Chundong Wang"
+             src="/img/people/Chundong_Wang.jpg" />
+    
+    </a>
+
+
+        </div>
+        <div class="col pl-0">
+            <h6 class="person-name"> 
+        <a href="https://sites.google.com/view/wangc"> Chundong Wang </a>
+     </h6>
+            
+                <div class="bio">Post Doc (PhD, NUS, Singapore)</div>
+            
+        </div>
+    </div>
+
+
+    
+        
+        
+
+
+
+
+
+
+
+    <div class="person person-with-image row align-items-center">
+        <div class="col-auto">
+            
+
+
+
+
+
+
+
+    <a href="http://sakshiudeshi.github.io"
+       style="text-decoration: none">
+        
+        <img class="rounded-circle profile"
+             alt="Sakshi Udeshi"
+             title="Sakshi Udeshi"
+             src="/img/people/Sakshi_Udeshi.jpg" />
+    
+    </a>
+
+
+        </div>
+        <div class="col pl-0">
+            <h6 class="person-name"> 
+        <a href="http://sakshiudeshi.github.io"> Sakshi Udeshi </a>
+     </h6>
+            
+                <div class="bio">PhD Student (SUTD)</div>
+            
+        </div>
+    </div>
+
+
+    
+        
+        
+
+
+
+
+
+
+
+    <div class="person person-with-image row align-items-center">
+        <div class="col-auto">
+            
+
+
+
+
+
+
+
+    <a href="https://www.linkedin.com/in/jia-yifan-a704403b/"
+       style="text-decoration: none">
+        
+        <img class="rounded-circle profile"
+             alt="Jia Yifan"
+             title="Jia Yifan"
+             src="/img/people/Jia_Yifan.jpg" />
+    
+    </a>
+
+
+        </div>
+        <div class="col pl-0">
+            <h6 class="person-name"> 
+        <a href="https://www.linkedin.com/in/jia-yifan-a704403b/"> Jia Yifan </a>
+     </h6>
+            
+                <div class="bio">PhD Student (SUTD and TUV SUD)</div>
+            
+        </div>
+    </div>
+
+
+    
+</section>
+
+
+    <div class="footer">
+
+        <p>
+            <a href="https://istd.sutd.edu.sg">Information Systems Technology and Design</a>
+            at the
+            <a href="https://sutd.edu.sg">Singapore University of Technology and Design</a>
+        </p>
+    </div>
+
+</div> <!-- /container -->
+
+<!-- Support retina images. -->
+<script type="text/javascript"
+        src="/js/srcset-polyfill.js"></script>
+</body>
+</html>
