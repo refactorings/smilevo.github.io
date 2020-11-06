@@ -6,5 +6,7 @@ https://www.facebook.com/photo.php?fbid=10161794008005453&set=pb.794670452.-2207
 
 https://www.facebook.com/photo.php?fbid=10161795032570453&set=pb.794670452.-2207520000..&type=3
 
+cd "path of the web folder"
+
  bundle exec jekyll serve
 

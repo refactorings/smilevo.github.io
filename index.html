@@ -2,6 +2,8 @@
 layout: default
 title: Home
 notitle: true
+image_sliders:
+  - gallery
 role-tables:
 - - roles:
     - faculty
@@ -17,6 +19,9 @@ role-tables:
     image: false
 
 ---
+
+{% include slider.html selector="gallery" %}
+
 <div class="jumbotron">
 <p style="text-align:justify">
 

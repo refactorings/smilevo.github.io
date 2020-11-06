@@ -1,0 +1,28 @@
+
+- selector: gallery
+  bullets: true
+  captions: true
+  images:
+    - src: /img/gallery/smilevo-2019.jpg
+      alt: This is how we are before Covid-19
+      href: smilevo.github.io/
+    - src: /img/gallery/smilevo-icsme2019.jpg
+      alt: The team attending ICSME 2019
+      href: smilevo.github.io/
+    - src: /img/gallery/hussein-icsme2019.jpg
+      alt: Hussein presenting at ICSME 2019
+      href: smilevo.github.io/
+    - src: /img/gallery/smilevo-icse2019.jpg
+      alt: The team enjoying ICSE 2019
+      href: smilevo.github.io/
+    - src: /img/gallery/eman-rit-graduate-showcase.jpg
+      alt: Eman showcasing her Master's Work at RIT Graduate Showcase
+      href: smilevo.github.io/
+    - src: /img/gallery/hussein-mvp.jpg
+      alt: Congratulations Hussein for being Microsoft Most Valuable Professional (MVP 2017)
+      href: smilevo.github.io/
+  settings:
+    height: "600"
+    maxHeight: "700"
+    keyboardNav: true
+    effect: "'fade'"

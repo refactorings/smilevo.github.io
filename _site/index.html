@@ -28,6 +28,15 @@
         gtag('config', "G-PJ46Z3FFCB");
     </script>
     
+
+    <!-- Adding the Slider stuff -->
+    <!-- Jekyll Ideal Image Slider Include -->
+<!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include -->
+<!-- v1.8 -->
+<link rel="stylesheet" href="/assets/css/slider/ideal-image-slider.css">
+<link rel="stylesheet" href="/assets/css/slider/themes/default.css">
+<!-- don't copy the following line, applies only to jekyll minima theme -->
+<style type="text/css">.ideal-image-slider{margin-bottom:15px}</style>
 </head>
 <body>
 
@@ -158,7 +167,18 @@
 
     
 
-    <div class="jumbotron">
+    <!-- Jekyll Ideal Image Slider Include -->
+<!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include -->
+<!-- v1.8 --><div id="gallery">
+  <a href="smilevo.github.io/"><img data-src="" data-src-2x="" src="/img/gallery/smilevo-2019.jpg" title="" alt="This is how we are before Covid-19"></a>
+  <a href="smilevo.github.io/"><img data-src="" data-src-2x="" src="/img/gallery/smilevo-icsme2019.jpg" title="" alt="The team attending ICSME 2019"></a>
+  <a href="smilevo.github.io/"><img data-src="" data-src-2x="" src="/img/gallery/hussein-icsme2019.jpg" title="" alt="Hussein presenting at ICSME 2019"></a>
+  <a href="smilevo.github.io/"><img data-src="" data-src-2x="" src="/img/gallery/smilevo-icse2019.jpg" title="" alt="The team enjoying ICSE 2019"></a>
+  <a href="smilevo.github.io/"><img data-src="" data-src-2x="" src="/img/gallery/eman-rit-graduate-showcase.jpg" title="" alt="Eman showcasing her Master's Work at RIT Graduate Showcase"></a>
+  <a href="smilevo.github.io/"><img data-src="" data-src-2x="" src="/img/gallery/hussein-mvp.jpg" title="" alt="Congratulations Hussein for being Microsoft Most Valuable Professional (MVP 2017)"></a>
+  </div>
+
+<div class="jumbotron">
 <p style="text-align:justify">
 
 
@@ -1508,5 +1528,26 @@ Presented our recent work “Impact of Refactoring on the Relationship between Q
 <!-- Support retina images. -->
 <script type="text/javascript"
         src="/js/srcset-polyfill.js"></script>
+
+
+        <!-- Adding the Slider stuff -->
+        <!-- Jekyll Ideal Image Slider Include -->
+<!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include -->
+<!-- v1.8 -->
+  <script src="/assets/js/slider/ideal-image-slider.min.js"></script>
+  <script src="/assets/js/slider/iis-bullet-nav.js"></script>
+  <script src="/assets/js/slider/iis-captions.js"></script>
+  <script>
+  var gallery = new IdealImageSlider.Slider({
+      selector: '#gallery',
+      height: 600,
+      maxHeight: 700,
+      effect: 'fade',
+      keyboardNav: true,
+      });
+    gallery.addBulletNav();
+    gallery.addCaptions();
+    gallery.start();
+  </script>
 </body>
 </html>

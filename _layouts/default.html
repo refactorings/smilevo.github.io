@@ -28,6 +28,9 @@
         gtag('config', "{{ site.analytics_id }}");
     </script>
     {% endif %}
+
+    <!-- Adding the Slider stuff -->
+    {% include slider_styles.html %}
 </head>
 <body>
 
@@ -95,5 +98,9 @@
 <!-- Support retina images. -->
 <script type="text/javascript"
         src="{{ site.base }}/js/srcset-polyfill.js"></script>
+
+
+        <!-- Adding the Slider stuff -->
+        {% include slider_scripts.html %}
 </body>
 </html>
