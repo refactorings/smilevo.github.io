@@ -92,7 +92,11 @@ andr:
     display_name: "Andrew Di Stasi"
     webpage: ""
     role: alum
+<<<<<<< HEAD
     bio: Master’s Student
+=======
+    bio: ""
+>>>>>>> 43d76c219f35dee5a01c4a671963dcd58a5ba3d1
     image: /img/people/dummy.jpg
 
 ahmj:
