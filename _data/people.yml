@@ -12,7 +12,7 @@ hussein:
     display_name: "Hussein Alrubaye"
     webpage: "http://alruabye.net/"
     role: grad
-    image: /img/people/alrubaye.jpg
+    image: "/img/people/alrubaye.jpg"
     bio: PhD Student
 
 eman:
@@ -92,11 +92,7 @@ andr:
     display_name: "Andrew Di Stasi"
     webpage: ""
     role: alum
-<<<<<<< HEAD
     bio: Master’s Student
-=======
-    bio: ""
->>>>>>> 43d76c219f35dee5a01c4a671963dcd58a5ba3d1
     image: /img/people/dummy.jpg
 
 ahmj:
@@ -154,54 +150,54 @@ jory:
     display_name: "Jose Reyes"
     webpage: ""
     role: alum
-    bio: ""
+    bio: Master’s Student
     image: /img/people/dummy.jpg
 
 licma:
     display_name: "Licelot Marmolejos"
     webpage: ""
     role: alum
-    bio: ""
+    bio: Master’s Student
     image: /img/people/dummy.jpg
 
 hinalh:
     display_name: "Hind Alharbi"
     webpage: ""
     role: alum
-    bio: ""
+    bio: Master’s Student
     image: /img/people/dummy.jpg
 
 jadmu:
     display_name: "Jadder Moya Urbaez"
     webpage: ""
     role: alum
-    bio: ""
+    bio: Master’s Student
     image: /img/people/dummy.jpg
 
 ebal:
     display_name: "Ebtesam Alsogaih"
     webpage: ""
     role: alum
-    bio: ""
+    bio: Master’s Student
     image: /img/people/dummy.jpg
 
 kunse:
     display_name: "Kunal Setpal"
     webpage: ""
     role: alum
-    bio: ""
+    bio: Master’s Student
     image: /img/people/dummy.jpg
 
 blbab:
     display_name: "Bladimir Baez Baez"
     webpage: "https://www.facebook.com/BLAD90"
     role: alum
-    bio: ""
-    image: /img/people/blad-baez.jpg
+    bio: Master’s Student
+    image: /img/people/baezbaez.jpg
 
 lasho:
     display_name: "Ian Shoenberger"
     webpage: "https://meritpages.com/ishoenberger"
     role: alum
-    bio: "Ian Shoenberger, a fourth-year student in the software engineering program in RIT's B. Thomas Golisano College of Computing and Information Sciences, made the Dean's List for the fall 2014-2015 semester."
+    bio: Master’s Student
     image: /img/people/ian-shoenberger.jpg
