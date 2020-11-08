@@ -1,17 +1,19 @@
 ---
 title: Third-Party Libraries API Safe Migration
 
-description: |
+description:
  <p style="text-align:justify">
-  Detection of performed migrations. Recommendation of Migrations at the method-level. Testing of recommended migrations 
+  Detection of performed migrations. Recommendation of Migrations at the method-level. Testing of recommended migrations
  </p>
 people:
-  - chundong
-  - sakshi
-  - yifan
+  - mkaouer
+  - hussein
+  - ranalr
+
+image: /img/project/migrationlab.jpg
 
 layout: project
-last-updated: 2019-08-11
+last-updated: 2019-11-11
 ---
 
 

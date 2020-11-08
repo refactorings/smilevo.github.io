@@ -5,141 +5,146 @@ mkaouer:
     github: mkaouer
     role: faculty
     image: /img/people/mkaouer.png
-    bio: "Assistant Professor"
+    bio: Assistant Professor
 
-#Grad Students 
-hussalr:
+#Grad Students
+hussein:
     display_name: "Hussein Alrubaye"
-    webpage: 
+    webpage: "http://alruabye.net/"
     role: grad
-    image: /img/people/dummy.jpg
-    bio: "PhD Student"
+    image: /img/people/alrubaye.jpg
+    bio: PhD Student
 
-emadba:
+eman:
     display_name: "Eman Abdullah Alomar"
-    webpage: 
+    webpage: "https://smilevo.github.io/self-affirmed-refactoring/index.html"
     role: grad
-    image: /img/people/dummy.jpg
-    bio: "PhD Student"
+    image: /img/people/alomar.png
+    bio: PhD Student
 
-deeals:
+deema:
     display_name: "Deema AlShoaibi"
-    webpage: 
+    webpage:
     role: grad
     image: /img/people/dummy.jpg
-    bio: "PhD Student"
-    
+    bio: PhD Student
+
+priss:
+    display_name: "Priya Suresh Sagar"
+    webpage: ""
+    role: grad
+    bio: Master’s Student
+    image: /img/people/dummy.jpg
+
+mohskk:
+    display_name: "Mohammadreza Shojaei Kol Kachi"
+    webpage: ""
+    role: grad
+    bio: Master’s Student
+    image: /img/people/dummy.jpg
+
+ahmalk:
+    display_name: "Ahmed Hamad I Alkhalid"
+    webpage: ""
+    role: grad
+    bio: Master’s Student
+    image: /img/people/dummy.jpg
+
+ranalr:
+    display_name: "Rana Alrubaye"
+    webpage: ""
+    role: grad
+    bio: Master’s Student
+    image: /img/people/dummy.jpg
+
+
+#Alumni
+
 Murtt:
     display_name: "Murtaza Tamjeed"
-    webpage: 
+    webpage:
     role: grad
     image: /img/people/dummy.jpg
-    bio: "PhD Student"
+    bio: PhD Student
 
 stevsi:
     display_name: "Steven Simmons"
-    webpage: 
-    role: grad
+    webpage:
+    role: alum
     image: /img/people/dummy.jpg
-    bio: "Master’s Student"
+    bio: Master’s Student
 
 bench:
     display_name: "Ben Christians"
-    webpage: 
-    role: grad
+    webpage:
+    role: alum
     image: /img/people/dummy.jpg
     bio: "Master’s Student"
 
 maxme:
     display_name: "Max Mendelson"
-    webpage: 
-    role: grad
+    webpage:
+    role: alum
     image: /img/people/dummy.jpg
     bio: "Master’s Student"
 
-
-
-
-
-
-
-#Alumni
 andr:
     display_name: "Andrew Di Stasi"
     webpage: ""
     role: alum
-    bio: "Do I leave the bio empty?"
+    bio: Master’s Student
     image: /img/people/dummy.jpg
 
 ahmj:
     display_name: "Ahmed Aljohani"
     webpage: ""
     role: alum
-    bio: ""
+    bio: Master’s Student
     image: /img/people/dummy.jpg
 
 khalm:
     display_name: "Khalid Almalki"
     webpage: ""
     role: alum
-    bio: ""
+    bio: Master’s Student
     image: /img/people/dummy.jpg
 
 anthp:
     display_name: "Anthony Peruma"
     webpage: ""
     role: alum
-    bio: ""
+    bio: Master’s Student
     image: /img/people/dummy.jpg
 
 kevih:
     display_name: "Kevin Hannigan"
     webpage: ""
     role: alum
-    bio: ""
+    bio: Master’s Student
     image: /img/people/dummy.jpg
 
 nassa:
     display_name: "Nasir Safdari"
     webpage: ""
     role: alum
-    bio: ""
-    image: /img/people/dummy.jpg
-
-emanab:
-    display_name: "Eman Abdullah Alomar"
-    webpage: ""
-    role: alum
-    bio: ""
+    bio: Master’s Student
     image: /img/people/dummy.jpg
 
 mazal:
     display_name: "Mazen Alotaibi"
     webpage: ""
     role: alum
-    bio: ""
+    bio: Master’s Student
     image: /img/people/dummy.jpg
 
 alexbo:
     display_name: "Alexander Bogart"
     webpage: ""
     role: alum
-    bio: ""
+    bio: Master’s Student
     image: /img/people/dummy.jpg
 
-priss:
-    display_name: "Priya Suresh Sagar"
-    webpage: ""
-    role: alum
-    bio: ""
-    image: /img/people/dummy.jpg
 
-mohskk:
-    display_name: "Mohammadreza Shojaei Kol Kachi"
-    webpage: ""
-    role: alum
-    bio: ""
-    image: /img/people/dummy.jpg
 
 jory:
     display_name: "Jose Reyes"
@@ -185,16 +190,14 @@ kunse:
 
 blbab:
     display_name: "Bladimir Baez Baez"
-    webpage: ""
+    webpage: "https://www.facebook.com/BLAD90"
     role: alum
     bio: ""
-    image: /img/people/dummy.jpg
+    image: /img/people/blad-baez.jpg
 
 lasho:
     display_name: "Ian Shoenberger"
-    webpage: ""
+    webpage: "https://meritpages.com/ishoenberger"
     role: alum
-    bio: ""
-    image: /img/people/dummy.jpg
-
-
+    bio: "Ian Shoenberger, a fourth-year student in the software engineering program in RIT's B. Thomas Golisano College of Computing and Information Sciences, made the Dean's List for the fall 2014-2015 semester."
+    image: /img/people/ian-shoenberger.jpg
