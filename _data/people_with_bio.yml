@@ -74,20 +74,33 @@ prisag:
 
 #Alumni
 
-Murtt:
+Wajdi:
     display_name: "Wajdi Aljedaani"
     webpage:
-    role: grad
+    role: alum
     image: /img/people/Wajdi.jpg
     bio: "Wajdi Aljedaani received a bachelor's degree in Software Engineering from the Athlone institute of technology, Ireland, in 2014, and received his master's degree in Software Engineering from Rochester Institute of Technology, New York, in 2016. He is currently a computer science and engineering PhD student at the University of North Texas. He worked as a lecturer for three years (2017-2020) at Al-Khari College of Technology, Saudi Arabia. His research interests are software engineering, mining software repository, accessibility, machine learning, and text mining."
 
 Murtt:
     display_name: "Murtaza Tamjeed"
     webpage:
-    role: grad
+    role: alum
     image: /img/people/dummy.jpg
     bio: PhD Student
+blbab:
+    display_name: "Bladimir Baez Baez"
+    webpage: "https://www.facebook.com/BLAD90"
+    role: alum
+    bio: Master’s Student
+    image: /img/people/baezbaez.jpg
 
+lasho:
+    display_name: "Ian Shoenberger"
+    webpage: "https://meritpages.com/ishoenberger"
+    role: alum
+    bio: Master’s Student
+    image: /img/people/shoenberger.jpg
+    
 stevsi:
     display_name: "Steven Simmons"
     webpage:
@@ -209,16 +222,4 @@ kunse:
     bio: Master’s Student
     image: /img/people/dummy.jpg
 
-blbab:
-    display_name: "Bladimir Baez Baez"
-    webpage: "https://www.facebook.com/BLAD90"
-    role: alum
-    bio: Master’s Student
-    image: /img/people/baezbaez.jpg
 
-lasho:
-    display_name: "Ian Shoenberger"
-    webpage: "https://meritpages.com/ishoenberger"
-    role: alum
-    bio: Master’s Student
-    image: /img/people/shoenberger.jpg

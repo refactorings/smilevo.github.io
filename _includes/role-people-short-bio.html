@@ -4,19 +4,13 @@
 {% for role in site.roles %}
     {% if role.key == role-key %}
         <h3 class="pt-3"> {{ role.name }} </h3>
-        
-            {% for item in site.data.people_with_bio %}
-            
+        <div class="role {{ role.key }}">
+            {% for item in site.data.people %}
                 {% assign person = item[1] %}
                 {% if person.role == role.key %}
-                <div class="card">
-                    <div class="card-body">
-                    {% include person.html person=person image=include.image %}
-                </div>
-            </div>
+                    {% include person-short-bio.html person=person image=include.image %}
                 {% endif %}
-           
             {% endfor %}
-           
+        </div>
     {% endif %}
 {% endfor %}

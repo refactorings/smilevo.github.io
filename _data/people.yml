@@ -74,10 +74,10 @@ prisag:
 
 #Alumni
 
-Murtt:
+Wajdi:
     display_name: "Wajdi Aljedaani"
     webpage:
-    role: grad
+    role: alum
     image: /img/people/Wajdi.jpg
     bio: Master’s Student
     

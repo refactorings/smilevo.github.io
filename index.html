@@ -77,7 +77,7 @@ role-tables:
             {% for role-column in role-table %}
                 <div class="col-md-{{ role-column.width }}">
                     {% for role in role-column.roles %}
-                        {% include role-people.html role=role image=role-column.image %}
+                        {% include role-people-short-bio.html role=role image=role-column.image %}
                     {% endfor %}
                 </div>
             {% endfor %}
