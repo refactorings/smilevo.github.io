@@ -54,21 +54,21 @@ ranalr:
     display_name: "Rana Alrubaye"
     webpage: "https://people.rit.edu/ra9118/"
     role: grad
-    bio: Master’s Student
+    bio: "Master’s Student, Rana Alrubaye received her bachelor's degree from the University of Diyala College of Engineering in the computer engineering department.  Currently, she is a master student at software engineering in Rochester Institute of Technology in Rochester. Her research interest is API migration, machine learning, modeling, data mining. She worked as a research assistant in a different research area for three semesters."
     image: /img/people/rana.PNG
 
 soso:
     display_name: "Sultan Almassari"
     webpage: "https://www.linkedin.com/in/sultan-almassari-ba72a199/"
     role: grad
-    bio: Master’s Student
+    bio: "Master’s Student, Brief Bio: Sultan Almassari is a master student in Software Engineering at Rochester Institute of Technology (RIT). He worked as a quality assurance engineer at Elm information security for three years, Saudi Arabia. He is working as a research assistant at RIT. His research interests are quality assurance, refactoring, text mining, and machine learning."
     image: /img/people/sultan.png
 
 prisag:
     display_name: " Priyadarshni Sagar"
     webpage: "linkedin.com/in/pssagar"
     role: grad
-    bio: Master’s Student
+    bio: "Priyadarshni is currently pursuing a Master's in Data Science at Rochester Institute of Technology, NY. She is driven by a passion to build data-driven intelligent applications, software, and systems that can improve the quality of life. Before coming to the united states she has received her bachelor's degree in Information Technology from the University of Pune, India. She loves solving problems related to Machine learning, data analytics, data science. She has got good hands-on experience in data analytics at RIT where she worked as a data analyst for 2 semesters. She is currently an IT Infrastructure engineering intern at Tesla and helping to accelerate the world's transition to sustainable energy. Her research interests are Data Science for software engineering, Machine learning, Big data, data analytics. "
     image: /img/people/prisag.jpg
 
 
@@ -79,8 +79,8 @@ Murtt:
     webpage:
     role: grad
     image: /img/people/Wajdi.jpg
-    bio: Master’s Student
-    
+    bio: "Wajdi Aljedaani received a bachelor's degree in Software Engineering from the Athlone institute of technology, Ireland, in 2014, and received his master's degree in Software Engineering from Rochester Institute of Technology, New York, in 2016. He is currently a computer science and engineering PhD student at the University of North Texas. He worked as a lecturer for three years (2017-2020) at Al-Khari College of Technology, Saudi Arabia. His research interests are software engineering, mining software repository, accessibility, machine learning, and text mining."
+
 Murtt:
     display_name: "Murtaza Tamjeed"
     webpage:
