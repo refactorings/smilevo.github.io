@@ -1,0 +1,224 @@
+#Faculty
+mkaouer:
+    display_name: "Mohamed Wiem Mkaouer"
+    webpage: "http://www.se.rit.edu/~mwm/"
+    github: mkaouer
+    role: faculty
+    image: /img/people/mkaouer.png
+    bio: Assistant Professor
+
+#Grad Students
+hussein:
+    display_name: "Hussein Alrubaye"
+    webpage: "http://alruabye.net/"
+    role: grad
+    image: "/img/people/alrubaye.jpg"
+    bio: PhD Student
+
+eman:
+    display_name: "Eman Abdullah Alomar"
+    webpage: "https://smilevo.github.io/self-affirmed-refactoring/index.html"
+    role: grad
+    image: /img/people/alomar.png
+    bio: PhD Student
+
+deema:
+    display_name: "Deema AlShoaibi"
+    webpage:
+    role: grad
+    image: /img/people/dummy.jpg
+    bio: PhD Student
+
+priss:
+    display_name: "Priya Suresh Sagar"
+    webpage: ""
+    role: grad
+    bio: Master’s Student
+    image: /img/people/dummy.jpg
+
+mohskk:
+    display_name: "Mohammadreza Shojaei Kol Kachi"
+    webpage: ""
+    role: grad
+    bio: Master’s Student
+    image: /img/people/dummy.jpg
+
+ahmalk:
+    display_name: "Ahmed Hamad I Alkhalid"
+    webpage: ""
+    role: grad
+    bio: Master’s Student
+    image: /img/people/dummy.jpg
+
+ranalr:
+    display_name: "Rana Alrubaye"
+    webpage: "https://people.rit.edu/ra9118/"
+    role: grad
+    bio: Master’s Student
+    image: /img/people/rana.PNG
+
+soso:
+    display_name: "Sultan Almassari"
+    webpage: "https://www.linkedin.com/in/sultan-almassari-ba72a199/"
+    role: grad
+    bio: Master’s Student
+    image: /img/people/sultan.png
+
+prisag:
+    display_name: " Priyadarshni Sagar"
+    webpage: "linkedin.com/in/pssagar"
+    role: grad
+    bio: Master’s Student
+    image: /img/people/prisag.jpg
+
+
+#Alumni
+
+Murtt:
+    display_name: "Wajdi Aljedaani"
+    webpage:
+    role: grad
+    image: /img/people/Wajdi.jpg
+    bio: Master’s Student
+    
+Murtt:
+    display_name: "Murtaza Tamjeed"
+    webpage:
+    role: grad
+    image: /img/people/dummy.jpg
+    bio: PhD Student
+
+stevsi:
+    display_name: "Steven Simmons"
+    webpage:
+    role: alum
+    image: /img/people/dummy.jpg
+    bio: Master’s Student
+
+bench:
+    display_name: "Ben Christians"
+    webpage:
+    role: alum
+    image: /img/people/dummy.jpg
+    bio: "Master’s Student"
+
+maxme:
+    display_name: "Max Mendelson"
+    webpage:
+    role: alum
+    image: /img/people/dummy.jpg
+    bio: "Master’s Student"
+
+andr:
+    display_name: "Andrew Di Stasi"
+    webpage: ""
+    role: alum
+    bio: Master’s Student
+    image: /img/people/dummy.jpg
+
+ahmj:
+    display_name: "Ahmed Aljohani"
+    webpage: ""
+    role: alum
+    bio: Master’s Student
+    image: /img/people/dummy.jpg
+
+khalm:
+    display_name: "Khalid Almalki"
+    webpage: ""
+    role: alum
+    bio: Master’s Student
+    image: /img/people/dummy.jpg
+
+anthp:
+    display_name: "Anthony Peruma"
+    webpage: ""
+    role: alum
+    bio: Master’s Student
+    image: /img/people/dummy.jpg
+
+kevih:
+    display_name: "Kevin Hannigan"
+    webpage: ""
+    role: alum
+    bio: Master’s Student
+    image: /img/people/dummy.jpg
+
+nassa:
+    display_name: "Nasir Safdari"
+    webpage: ""
+    role: alum
+    bio: Master’s Student
+    image: /img/people/dummy.jpg
+
+mazal:
+    display_name: "Mazen Alotaibi"
+    webpage: ""
+    role: alum
+    bio: Master’s Student
+    image: /img/people/dummy.jpg
+
+alexbo:
+    display_name: "Alexander Bogart"
+    webpage: ""
+    role: alum
+    bio: Master’s Student
+    image: /img/people/dummy.jpg
+
+
+
+jory:
+    display_name: "Jose Reyes"
+    webpage: ""
+    role: alum
+    bio: Master’s Student
+    image: /img/people/dummy.jpg
+
+licma:
+    display_name: "Licelot Marmolejos"
+    webpage: ""
+    role: alum
+    bio: Master’s Student
+    image: /img/people/dummy.jpg
+
+hinalh:
+    display_name: "Hind Alharbi"
+    webpage: ""
+    role: alum
+    bio: Master’s Student
+    image: /img/people/dummy.jpg
+
+jadmu:
+    display_name: "Jadder Moya Urbaez"
+    webpage: ""
+    role: alum
+    bio: Master’s Student
+    image: /img/people/dummy.jpg
+
+ebal:
+    display_name: "Ebtesam Alsogaih"
+    webpage: ""
+    role: alum
+    bio: Master’s Student
+    image: /img/people/dummy.jpg
+
+kunse:
+    display_name: "Kunal Setpal"
+    webpage: ""
+    role: alum
+    bio: Master’s Student
+    image: /img/people/dummy.jpg
+
+blbab:
+    display_name: "Bladimir Baez Baez"
+    webpage: "https://www.facebook.com/BLAD90"
+    role: alum
+    bio: Master’s Student
+    image: /img/people/baezbaez.jpg
+
+lasho:
+    display_name: "Ian Shoenberger"
+    webpage: "https://meritpages.com/ishoenberger"
+    role: alum
+    bio: Master’s Student
+    image: /img/people/shoenberger.jpg
