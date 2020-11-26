@@ -52,7 +52,7 @@ navigation:
   - title: People
     link: /people.html
   - title: News
-    link: /blog.html
+    link: /news/
   - title: Research
     link: /research.html
   - title: Publications
@@ -61,3 +61,7 @@ navigation:
     link: /code.html
   - title: Service
     link: /service.html
+
+plugins: [jekyll-paginate]
+paginate: 5
+paginate_path: "/news/:num/"
