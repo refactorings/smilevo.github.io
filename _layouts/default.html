@@ -55,9 +55,6 @@
             {% if item.title == 'Research' and page.layout == 'project' %}
             {% assign maybe-active = 'active' %}
             {% endif %}
-            {% if item.title == 'News' and page.layout == 'news'%}
-            {% assign maybe-active = 'active' %}
-            {% endif %}
             {% if itemshorturl == shorturl or is-research %}
             {% assign maybe-active = 'active' %}
             {% endif %}
