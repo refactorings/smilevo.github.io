@@ -71,15 +71,23 @@ ul.news {
     }
 }
 
+//Added the max width of container for various min-widths, this should fix the margin issue currently prevalent in the build
+
 @media (min-width: 576px) {
     .project-people { column-count: 2 }
     .card-columns   { column-count: 2 }
+    .container {
+        max-width: 620px;
+    }
 }
 
 @media (min-width: 768px) {
     .role.grad      { column-count: 2 }
     .project-people { column-count: 3 }
     .card-columns   { column-count: 3 }
+    .container {
+        max-width: 1500px;
+    }
 }
 
 .title img {
